@@ -49,3 +49,13 @@ Kemudian tambahkan tag "link" untuk merujuk file css yang sudah dibuat pada bagi
 Selanjutnya refresh kembali browser untuk melihat perubahannya
 ----------
 ![9](https://user-images.githubusercontent.com/73066008/159383166-5bcd10aa-b791-4791-a836-067d05f2320d.png)
+
+# 5. Menambahkan CSS Selector
+----------
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut :
+----------
+![10](https://user-images.githubusercontent.com/73066008/159405985-cab247fd-5319-46f6-90ed-c14d0b525261.png)
+----------
+Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+----------
+![11](https://user-images.githubusercontent.com/73066008/159405998-e30515d8-0e6f-4af0-8df5-a073bf0d87e2.png)
